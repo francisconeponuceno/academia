@@ -127,7 +127,7 @@ main{
 
 .btns button:hover{
     color: rgb(251,255,0);
-    border: none;
+    border: solid 1px rgb(251,255,0);
 
 }
 
